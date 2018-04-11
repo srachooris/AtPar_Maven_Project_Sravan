@@ -36,7 +36,7 @@ public class TestLogin extends ExcelXlsx {
 		
 	Action.implicitWaitForElement(getData("F14"), 10);
 
-	System.out.println("\n Waiting");
+	System.out.println("\nWaiting");
 		Action.button(getData("D14"),getData("E14"), getData("F14"));
 		
 	log.info("Log in successful with Admin Credentials");
