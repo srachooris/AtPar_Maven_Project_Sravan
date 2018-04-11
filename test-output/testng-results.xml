@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21032" started-at="2018-04-11T10:41:09Z" finished-at="2018-04-11T10:41:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21032" started-at="2018-04-11T10:41:09Z" finished-at="2018-04-11T10:41:30Z">
+      <class name="testScripts.TestLogin">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testScripts.TestLogin@6536e911]" name="setUp" is-config="true" duration-ms="19539" started-at="2018-04-11T16:11:09Z" finished-at="2018-04-11T16:11:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createOrgGroupID()[pri:0, instance:testScripts.TestLogin@6536e911]" name="createOrgGroupID" duration-ms="1411" started-at="2018-04-11T16:11:28Z" description="Creating an Org ID with the test data mentioned in the sheet OrgGroupCreation" finished-at="2018-04-11T16:11:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrgGroupID -->
+      </class> <!-- testScripts.TestLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

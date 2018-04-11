@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="CustomListener.Listener"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="testScripts.TestLogin">
+        <methods>
+          <include name="createOrgGroupID"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testScripts.TestLogin -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

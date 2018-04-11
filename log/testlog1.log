@@ -1,0 +1,79 @@
+2018-04-11 15:37:24,336 [main] INFO TestBase.TestBase - Execution Started at : Wed Apr 11 15:37:24 IST 2018
+2018-04-11 15:37:24,353 [main] INFO TestBase.TestBase - Test: TestCase started at : 15:37:24 Seconds
+2018-04-11 15:37:24,358 [main] INFO TestBase.TestBase - Execution Started at : Wed Apr 11 15:37:24 IST 2018
+2018-04-11 15:37:24,360 [main] INFO TestBase.TestBase - Test: TestCase started at : 15:37:24 Seconds
+2018-04-11 15:37:24,377 [main] INFO TestBase.TestBase - Opened Excel : Configaration.xlsx
+2018-04-11 15:37:25,315 [main] INFO TestBase.TestBase - Selected Browser is : chrome
+2018-04-11 15:37:29,117 [main] INFO TestBase.TestBase - CHROME : Browser opend successfully
+2018-04-11 15:37:30,291 [main] INFO TestBase.TestBase - Maximized CHROME: Browser
+2018-04-11 15:37:42,233 [main] INFO TestBase.TestBase - Closed  Excel
+2018-04-11 15:37:45,254 [main] INFO TestBase.TestBase - Initiated Org Group ID creation method at: 11-04-2018_15_37_45
+2018-04-11 15:37:45,255 [main] INFO TestBase.TestBase - Opened Excel : DataSetup_User_Org_Profile.xlsx
+2018-04-11 15:37:45,594 [main] INFO TestBase.TestBase - ExplecitWati for : User ID element loading : 30 Seconds
+2018-04-11 15:37:45,718 [main] INFO TestBase.TestBase - But User ID: element loaded compleatly in : 73 milliSeconds
+2018-04-11 15:37:45,755 [main] INFO TestBase.TestBase - Identified element successfully : User ID
+2018-04-11 15:37:46,024 [main] INFO TestBase.TestBase - Entered : admin : text in : User ID : textbox Successfully 
+2018-04-11 15:37:46,097 [main] INFO TestBase.TestBase - Identified element successfully : Password
+2018-04-11 15:37:46,358 [main] INFO TestBase.TestBase - Entered : admin : text in : Password : textbox Successfully 
+2018-04-11 15:37:46,753 [main] INFO TestBase.TestBase - <a href="D:\SravanMaven Poject\AtPar\Screenshots\11-04-2018_15-37-46_createOrgGroupID_Method.png"><img src="file:///D:\SravanMaven Poject\AtPar\Screenshots\11-04-2018_15-37-46_createOrgGroupID_Method.png" alt=""height='100' width='100'/> <br />
+2018-04-11 15:37:47,138 [main] INFO TestBase.TestBase - <a href="D:\SravanMaven Poject\AtPar\Screenshots\11-04-2018_15-37-46_createOrgGroupID_Method.png"><img src="file:///D:\SravanMaven Poject\AtPar\Screenshots\11-04-2018_15-37-46_createOrgGroupID_Method.png" alt=""height='100' width='100'/> <br />
+2018-04-11 15:39:38,375 [main] INFO TestBase.TestBase - Execution Started at : Wed Apr 11 15:39:38 IST 2018
+2018-04-11 15:39:38,391 [main] INFO TestBase.TestBase - Test: TestCase started at : 15:39:38 Seconds
+2018-04-11 15:39:38,394 [main] INFO TestBase.TestBase - Execution Started at : Wed Apr 11 15:39:38 IST 2018
+2018-04-11 15:39:38,396 [main] INFO TestBase.TestBase - Test: TestCase started at : 15:39:38 Seconds
+2018-04-11 15:39:38,412 [main] INFO TestBase.TestBase - Opened Excel : Configaration.xlsx
+2018-04-11 15:39:39,337 [main] INFO TestBase.TestBase - Selected Browser is : chrome
+2018-04-11 15:39:43,814 [main] INFO TestBase.TestBase - CHROME : Browser opend successfully
+2018-04-11 15:39:44,985 [main] INFO TestBase.TestBase - Maximized CHROME: Browser
+2018-04-11 15:39:56,884 [main] INFO TestBase.TestBase - Closed  Excel
+2018-04-11 15:39:59,908 [main] INFO TestBase.TestBase - Initiated Org Group ID creation method at: 11-04-2018_15_39_59
+2018-04-11 15:39:59,908 [main] INFO TestBase.TestBase - Opened Excel : DataSetup_User_Org_Profile.xlsx
+2018-04-11 15:40:00,239 [main] INFO TestBase.TestBase - ExplecitWati for : User ID element loading : 30 Seconds
+2018-04-11 15:40:00,364 [main] INFO TestBase.TestBase - But User ID: element loaded compleatly in : 78 milliSeconds
+2018-04-11 15:40:00,406 [main] INFO TestBase.TestBase - Identified element successfully : User ID
+2018-04-11 15:40:00,562 [main] INFO TestBase.TestBase - Entered : admin : text in : User ID : textbox Successfully 
+2018-04-11 15:40:00,629 [main] INFO TestBase.TestBase - Identified element successfully : Password
+2018-04-11 15:40:00,764 [main] INFO TestBase.TestBase - Entered : admin : text in : Password : textbox Successfully 
+2018-04-11 15:40:01,182 [main] INFO TestBase.TestBase - <a href="D:\SravanMaven Poject\AtPar\Screenshots\11-04-2018_15-40-00_createOrgGroupID_Method.png"><img src="file:///D:\SravanMaven Poject\AtPar\Screenshots\11-04-2018_15-40-00_createOrgGroupID_Method.png" alt=""height='100' width='100'/> <br />
+2018-04-11 15:40:01,572 [main] INFO TestBase.TestBase - <a href="D:\SravanMaven Poject\AtPar\Screenshots\11-04-2018_15-40-01_createOrgGroupID_Method.png"><img src="file:///D:\SravanMaven Poject\AtPar\Screenshots\11-04-2018_15-40-01_createOrgGroupID_Method.png" alt=""height='100' width='100'/> <br />
+2018-04-11 15:51:21,174 [main] INFO TestBase.TestBase - Execution Started at : Wed Apr 11 15:51:21 IST 2018
+2018-04-11 15:51:21,196 [main] INFO TestBase.TestBase - Test: TestCase started at : 15:51:21 Seconds
+2018-04-11 15:51:21,205 [main] INFO TestBase.TestBase - Execution Started at : Wed Apr 11 15:51:21 IST 2018
+2018-04-11 15:51:21,206 [main] INFO TestBase.TestBase - Test: TestCase started at : 15:51:21 Seconds
+2018-04-11 15:51:21,228 [main] INFO TestBase.TestBase - Opened Excel : Configaration.xlsx
+2018-04-11 15:51:22,636 [main] INFO TestBase.TestBase - Selected Browser is : chrome
+2018-04-11 15:51:27,794 [main] INFO TestBase.TestBase - CHROME : Browser opend successfully
+2018-04-11 15:51:29,172 [main] INFO TestBase.TestBase - Maximized CHROME: Browser
+2018-04-11 15:51:40,156 [main] INFO TestBase.TestBase - Closed  Excel
+2018-04-11 15:51:43,197 [main] INFO TestBase.TestBase - Initiated Org Group ID creation method at: 11-04-2018_15_51_43
+2018-04-11 15:51:43,198 [main] INFO TestBase.TestBase - Opened Excel : DataSetup_User_Org_Profile.xlsx
+2018-04-11 15:51:43,487 [main] INFO TestBase.TestBase - ExplecitWati for : User ID element loading : 30 Seconds
+2018-04-11 15:51:43,577 [main] INFO TestBase.TestBase - But User ID: element loaded compleatly in : 65 milliSeconds
+2018-04-11 15:51:43,604 [main] INFO TestBase.TestBase - Identified element successfully : User ID
+2018-04-11 15:51:43,738 [main] INFO TestBase.TestBase - Entered : admin : text in : User ID : textbox Successfully 
+2018-04-11 15:51:43,793 [main] INFO TestBase.TestBase - Identified element successfully : Password
+2018-04-11 15:51:44,036 [main] INFO TestBase.TestBase - Entered : admin : text in : Password : textbox Successfully 
+2018-04-11 15:52:57,605 [main] INFO TestBase.TestBase - ImplicitWait for :#btnLogin: Element visible : 5 Seconds
+2018-04-11 15:53:15,648 [main] INFO TestBase.TestBase - Identified element successfully : Login Button
+2018-04-11 15:53:15,773 [main] INFO TestBase.TestBase - Clicked on : Login Button : button successfully 
+2018-04-11 16:11:09,072 [main] INFO TestBase.TestBase - Execution Started at : Wed Apr 11 16:11:09 IST 2018
+2018-04-11 16:11:09,125 [main] INFO TestBase.TestBase - Test: TestCase started at : 16:11:09 Seconds
+2018-04-11 16:11:09,130 [main] INFO TestBase.TestBase - Execution Started at : Wed Apr 11 16:11:09 IST 2018
+2018-04-11 16:11:09,131 [main] INFO TestBase.TestBase - Test: TestCase started at : 16:11:09 Seconds
+2018-04-11 16:11:09,152 [main] INFO TestBase.TestBase - Opened Excel : Configaration.xlsx
+2018-04-11 16:11:10,157 [main] INFO TestBase.TestBase - Selected Browser is : chrome
+2018-04-11 16:11:13,908 [main] INFO TestBase.TestBase - CHROME : Browser opend successfully
+2018-04-11 16:11:15,123 [main] INFO TestBase.TestBase - Maximized CHROME: Browser
+2018-04-11 16:11:25,671 [main] INFO TestBase.TestBase - Closed  Excel
+2018-04-11 16:11:28,698 [main] INFO TestBase.TestBase - Initiated Org Group ID creation method at: 11-04-2018_16_11_28
+2018-04-11 16:11:28,699 [main] INFO TestBase.TestBase - Opened Excel : DataSetup_User_Org_Profile.xlsx
+2018-04-11 16:11:28,987 [main] INFO TestBase.TestBase - ExplecitWati for : User ID element loading : 30 Seconds
+2018-04-11 16:11:29,096 [main] INFO TestBase.TestBase - But User ID: element loaded compleatly in : 72 milliSeconds
+2018-04-11 16:11:29,164 [main] INFO TestBase.TestBase - Identified element successfully : User ID
+2018-04-11 16:11:29,530 [main] INFO TestBase.TestBase - Entered : admin : text in : User ID : textbox Successfully 
+2018-04-11 16:11:29,592 [main] INFO TestBase.TestBase - Identified element successfully : Password
+2018-04-11 16:11:29,796 [main] INFO TestBase.TestBase - Entered : admin : text in : Password : textbox Successfully 
+2018-04-11 16:11:29,797 [main] INFO TestBase.TestBase - ImplicitWait for :#btnLogin: Element visible : 10 Seconds
+2018-04-11 16:11:29,877 [main] INFO TestBase.TestBase - Identified element successfully : Login Button
+2018-04-11 16:11:30,099 [main] INFO TestBase.TestBase - Clicked on : Login Button : button successfully 
+2018-04-11 16:11:30,099 [main] INFO TestBase.TestBase - Log in successful with Admin Credentials
